@@ -23,7 +23,7 @@
 - 📊 &nbsp; Open Source Enthusiast
 - 👨🏻‍💻 &nbsp; Most of my work is available on [GitHub](https://github.com/WhiteMagic3333?tab=repositories) — recently, I’ve been reading up on low-level design patterns and improving architecture thinking  
 - 📫 &nbsp; Reach out to me on [LinkedIn](https://www.linkedin.com/in/shivam-bohra-9789741a9/)  
-- 📝 &nbsp; Here’s my [Resume](https://drive.google.com/file/d/1-LBE1HpVSvxr7uAmNCWT21Lke-jCqtTN/view?usp=sharing) and [Leetcode](https://leetcode.com/u/whitemagic7456/)
+- 📝 &nbsp; Here’s my [Resume](https://drive.google.com/file/d/1-LBE1HpVSvxr7uAmNCWT21Lke-jCqtTN/view?usp=sharing), [Leetcode](https://leetcode.com/u/whitemagic7456/) and [Portfolio](https://portfolio-rho-steel-70.vercel.app/)
 - 🌱 &nbsp; Looking to collaborate on **Open Source Projects**  
 - 📚 &nbsp; In my downtime, I enjoy reading — especially fiction and personal development  
 
